@@ -8,7 +8,7 @@ Santi137x
 </p>
 
 <p align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro:700&size=16&duration=1&pause=999999&color=72A3F9&center=true&vCenter=true&width=750&lines=🧠+Design+→+💻+Build+→+🧰+Test+→+🚀+Deploy alt="Design Build Test Deploy"/>
+  <img src=https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro:700&size=16&duration=1&pause=999999&color=72A3F9&center=true&vCenter=true&width=750&lines=🧠+Design+→+💻+Build+→+🧰+Test+→+🚀+Deploy+→+🔁 alt="Design Build Test Deploy"/>
 </p>
 
 <p align="center">
