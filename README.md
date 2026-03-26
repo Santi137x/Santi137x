@@ -16,7 +16,7 @@ Santi137x
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,latex,js,ai,ps&perline=8&theme=dark" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,ai,ps&perline=8&theme=dark" alt="Tech stack icons"/>
 </p>
 
 <!--- 
