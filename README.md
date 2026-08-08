@@ -15,10 +15,6 @@ SantiMrnx
   <img src=https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro:700&size=28&duration=1&pause=999999&color=A371F7&center=true&vCenter=true&width=850&lines=Conceptual+Logic+Into+Digital+Energy alt="Bio text"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,ai,ps&perline=8&theme=dark" alt="Tech stack icons"/>
-</p>
-
 <!--- 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=santi137x&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats height="165" alt="GitHub stats"/>
   &nbsp;&nbsp;&nbsp;
